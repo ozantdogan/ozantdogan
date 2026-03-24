@@ -34,6 +34,6 @@ I am a software developer passionate about building high-performance, scalable w
 ---
 
 ### 📫 How to reach me
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/ozantdogan)
+* **LinkedIn:** [linkedin.com/in/ozantdogan](https://linkedin.com/in/ozantdogan)
 * **Email:** ozantdogan@outlook.com
 
