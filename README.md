@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Ozan
-### Full Stack Developer | .NET Core & React Specialist
+### Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ozantdogan)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ozantdogan@outlook.com)
 
-I am a software developer passionate about building high-performance, scalable web applications and optimizing backend architectures. My expertise lies in the **.NET ecosystem**, **React**, and **distributed systems**.
+I am a software engineer passionate about building high-performance, scalable web applications and optimizing backend architectures. My expertise lies in the **.NET ecosystem**, **React**, and **distributed systems**.
 
 ---
 
